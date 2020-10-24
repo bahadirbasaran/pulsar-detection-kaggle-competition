@@ -10,4 +10,4 @@ This study is intended to label pulsar candidates to facilitate rapid analysis, 
 
 The general conclusion for the experiment is as follows:
 
-![](https://ibb.co/w4nSrB4)
+![](https://i.ibb.co/DQB9gzQ/download.png)
