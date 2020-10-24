@@ -8,4 +8,6 @@ HTRU2 is a data set which describes a sample of pulsar candidates collected duri
 
 This study is intended to label pulsar candidates to facilitate rapid analysis, by applying different Machine Learning techniques on set of attributes which were extracted from real-world pulsar observations.
 
+The general conclusion for the experiment is as follows:
 
+![](https://ibb.co/w4nSrB4)
